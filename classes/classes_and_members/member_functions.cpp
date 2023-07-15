@@ -1,3 +1,5 @@
+#include "member_functions.h"
+
 struct Date {
     int d, m, y;
 };
